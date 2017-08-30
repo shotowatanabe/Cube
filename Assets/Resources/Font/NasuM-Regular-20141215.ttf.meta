@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ec651187b9f958f44a405130be09e5b3
+timeCreated: 1487265031
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NasuM
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 29fa59603689c494e89bf4733118822c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

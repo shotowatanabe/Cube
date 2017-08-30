@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Over_Script.cs">
+    <Files>
+      <File FileName="Assets\Script\sound.cs" Line="25" Column="3" />
+      <File FileName="Assets\Script\Item.cs" Line="12" Column="1" />
+      <File FileName="Assets\Script\PlayerBattery.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PlayerController.cs" Line="68" Column="36" />
+      <File FileName="Assets\Script\Over_Script.cs" Line="26" Column="40" />
+      <File FileName="Assets\Script\Title.cs" Line="60" Column="25" />
+      <File FileName="Assets\Script\GameController.cs" Line="15" Column="1" />
+      <File FileName="Assets\Script\FadeScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\shayasi\Desktop\cube20170206\Assets\Script\Over_Script.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
